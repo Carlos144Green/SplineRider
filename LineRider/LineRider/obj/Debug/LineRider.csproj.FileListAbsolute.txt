@@ -1,0 +1,7 @@
+C:\Users\lolc4\source\repos\LineRider\LineRider\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\lolc4\source\repos\LineRider\LineRider\bin\TypeScriptHTMLApp1.dll
+C:\Users\lolc4\source\repos\LineRider\LineRider\bin\TypeScriptHTMLApp1.pdb
+C:\Users\lolc4\source\repos\LineRider\LineRider\obj\Debug\LineRider.csproj.AssemblyReference.cache
+C:\Users\lolc4\source\repos\LineRider\LineRider\obj\Debug\LineRider.csproj.CoreCompileInputs.cache
+C:\Users\lolc4\source\repos\LineRider\LineRider\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\lolc4\source\repos\LineRider\LineRider\obj\Debug\TypeScriptHTMLApp1.pdb
